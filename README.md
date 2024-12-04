@@ -16,10 +16,10 @@
 <hr style="height:30px">
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="[https://linkedin.com/in/havindu nimadith](https://www.linkedin.com/in/havindu-nimadith-065414310)" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="havindu nimadith" height="30" width="40" /></a>
-<a href="[https://fb.com/havindu nimadith](https://www.facebook.com/havinduuu?mibextid=ZbWKwL)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="havindu nimadith" height="30" width="40" /></a>
-<a href="[https://instagram.com/havinduuu](https://www.instagram.com/havinduuu/profilecard/?igsh=MXR6Z2Jwb3BpeTFpMw==)" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="havinduuu" height="30" width="40" /></a>
-<a href="[https://discord.gg/https://discord.gg/RnWn9uXu](https://discord.com/channels/1311385545380991058/1311386091697209395)" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" alt="https://discord.gg/RnWn9uXu" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/havindu-nimadith-065414310" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="havindu nimadith" height="30" width="40" /></a>
+<a href="https://www.facebook.com/havinduuu?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="havindu nimadith" height="30" width="40" /></a>
+<a href="https://www.instagram.com/havinduuu/profilecard/?igsh=MXR6Z2Jwb3BpeTFpMw==" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="havinduuu" height="30" width="40" /></a>
+<a href="https://discord.com/channels/1311385545380991058/1311386091697209395" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" alt="https://discord.gg/RnWn9uXu" height="30" width="40" /></a>
 </p>
 <hr style="height:30px">
 <h3 align="center">Languages and Tools</h3>
