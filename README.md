@@ -29,7 +29,7 @@
 
 <h3 align="left">Support</h3>
 
-<p><a href="https://www.buymeacoffee.com/nimadith-lmh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="nimadith-lmh" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/nimadith_lmh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="nimadith-lmh" /></a></p><br><br>
 <hr style="height:30px">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimadith-lmh&show_icons=true&locale=en&layout=compact" alt="nimadith-lmh" /></p>
