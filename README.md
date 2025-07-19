@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Havindu Nimadith</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Havindu%20Nimadith&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=auto" alt="header"/>
+
 <h3 align="center">Innovative IT Enthusiast | Building Solutions and Shaping the Future of Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimadith-lmh&label=Profile%20views&color=0e75b6&style=flat" alt="nimadith-lmh" /> </p>
@@ -13,6 +15,7 @@
   - 📫 How to reach me **havindunimadith7@gmail.com**
   
   - ⚡ Fun fact **I like problems**
+    
 <hr style="height:30px">
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -27,11 +30,20 @@
 
 <hr style="height:30px">
 
-<h3 align="left">Support</h3>
+<h3 align="center">Support</h3>
 
-<p><a href="https://buymeacoffee.com/nimadith_lmh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="nimadith-lmh" /></a></p><br><br>
+<div style="text-align: center;">
+  <a href="https://buymeacoffee.com/nimadith_lmh">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="nimadith-lmh" />
+  </a>
+</div>
+
 <hr style="height:30px">
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimadith-lmh&show_icons=true&locale=en&layout=compact" alt="nimadith-lmh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimadith-lmh&show_icons=true&locale=en" alt="nimadith-lmh" /></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&fontColor=auto" alt="footer" />
+</div>
