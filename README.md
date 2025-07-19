@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Havindu%20Nimadith&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=auto" alt="header"/>
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=auto&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Havindu;Welcome+to+my+Profile" alt="Typing SVG" />
 
 <h3 align="center">Innovative IT Enthusiast | Building Solutions and Shaping the Future of Technology</h3>
 
@@ -8,13 +9,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimadith-lmh" alt="nimadith-lmh" /></a> </p>
 <hr style="height:30px">
 
-  - 🌱 I’m currently learning **MERN**
+   🌱 I’m currently learning **MERN**
   
-  - 💬 Ask me about **Java**
+   💬 Ask me about **Java**
   
-  - 📫 How to reach me **havindunimadith7@gmail.com**
+   📫 How to reach me **havindunimadith7@gmail.com**
   
-  - ⚡ Fun fact **I like problems**
+   ⚡ Fun fact **I like problems**
     
 <hr style="height:30px">
 <h3 align="center">Connect with me</h3>
