@@ -48,6 +48,9 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimadith-lmh&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimadith-lmh&show_icons=true&locale=en" alt="nimadith-lmh" /></p> -->
   <img src="https://github-readme-stats.vercel.app/api?username=nimadith-lmh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimadith-lmh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" alt="Top Languages" />
+  </p>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&fontColor=auto" alt="footer" />
 </div>
