@@ -44,14 +44,19 @@
 <hr style="height:30px">
 
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimadith-lmh&show_icons=true&locale=en&layout=compact" alt="nimadith-lmh" /></p>-->
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimadith-lmh&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimadith-lmh&show_icons=true&locale=en" alt="nimadith-lmh" /></p> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nimadith-lmh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimadith-lmh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" alt="Top Languages" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimadith-lmh&theme=dark&hide_border=false&layout=compact&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Top Languages" />
   </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimadith-lmh&theme=dark&hide_border=false&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak Stats" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nimadith-lmh&show_icons=true&theme=dark&hide_border=false&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
+  </p>
+</div>
+  
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&fontColor=auto" alt="footer" />
 </div>
