@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Havindu%20Nimadith&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=auto" alt="header"/>
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=auto&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Havindu;Welcome+to+my+Profile" alt="Typing SVG" />
+     <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation"/>
+</div> 
 
 <h3 align="center">Innovative IT Enthusiast | Building Solutions and Shaping the Future of Technology</h3>
 
@@ -15,8 +18,7 @@
   
    📫 How to reach me **havindunimadith7@gmail.com**
   
-   ⚡ Fun fact **I like problems**
-    
+   ⚡ Fun fact **I like problems**  
 <hr style="height:30px">
 <h3 align="center">Connect with me</h3>
 <p align="center">
