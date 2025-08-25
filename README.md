@@ -55,12 +55,6 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nimadith-lmh&show_icons=true&theme=dark&hide_border=false&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
   </p>
-
-  <p align="center">
-    <img src="https://github.com/NIMADITH-LMH/NIMADITH-LMH/blob/output/snake.svg#gh-light-mode-only" alt="GitHub Snake Light" />
-    <img src="https://github.com/NIMADITH-LMH/NIMADITH-LMH/blob/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
-  </p>
-</div>
   
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&fontColor=auto" alt="footer" />
