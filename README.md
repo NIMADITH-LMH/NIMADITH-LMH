@@ -13,7 +13,7 @@
 ### About Me
 
 <div align="center">
-  I am an **Innovative IT Enthusiast** dedicated to building solutions and shaping the future of technology. I thrive on challenges and enjoy solving complex problems.
+  I am an Innovative IT Enthusiast dedicated to building solutions and shaping the future of technology. I thrive on challenges and enjoy solving complex problems.
   <br><br>
   🌱 Currently learning MERN Stack
   <br>
