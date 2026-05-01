@@ -12,23 +12,30 @@
 
 ### 👨‍💻 About Me
 
-I am an **Innovative IT Enthusiast** dedicated to building solutions and shaping the future of technology. I thrive on challenges and enjoy solving complex problems.
+<div align="center">
+  I am an **Innovative IT Enthusiast** dedicated to building solutions and shaping the future of technology. I thrive on challenges and enjoy solving complex problems.
+  <br><br>
+  🌱 Currently learning MERN Stack
+  <br>
+  💬 Ask me about Java & Spring Boot
+  <br>
+  📫 Reach me at havindunimadith7@gmail.com
+  <br>
+  ⚡ Fun fact: I like problems!
+</div>
 
-- 🌱 Currently learning **MERN Stack**
-- 💬 Ask me about **Java & Spring Boot**
-- 📫 Reach me at **havindunimadith7@gmail.com**
-- ⚡ Fun fact: **I like problems!**
+<br />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/havindu-nimadith-065414310" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/havinduuu" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/havinduuu" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://discord.com/channels/1311385545380991058/1311386091697209395" target="blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
@@ -90,7 +97,7 @@ I am an **Innovative IT Enthusiast** dedicated to building solutions and shaping
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=oracle" width="40" height="40" alt="Oracle" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
       <br>Oracle
     </td>
     <td align="center" width="96">
@@ -100,13 +107,6 @@ I am an **Innovative IT Enthusiast** dedicated to building solutions and shaping
   </tr>
 </table>
 
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimadith-lmh&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
 
 ---
 
@@ -132,9 +132,11 @@ I am an **Innovative IT Enthusiast** dedicated to building solutions and shaping
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nimadith-lmh/nimadith-lmh/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-  <br>
-  <i>(Note: This animation requires a GitHub Action to update. I've added the placeholder for you!)</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimadith-lmh/nimadith-lmh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nimadith-lmh/nimadith-lmh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nimadith-lmh/nimadith-lmh/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
