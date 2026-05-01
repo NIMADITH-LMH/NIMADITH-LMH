@@ -44,6 +44,7 @@
 ---
 
 
+
 ### 🛠️ Languages and Tools
 
 <table align="center">
@@ -61,15 +62,19 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
       <br>React
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
       <br>Java
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" />
       <br>Spring
@@ -86,19 +91,37 @@
       <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
       <br>Python
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" />
+      <br>Django
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
       <br>MongoDB
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
       <br>Oracle
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" />
+      <br>SQLite
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
