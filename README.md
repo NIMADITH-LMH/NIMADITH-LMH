@@ -22,20 +22,30 @@
 
 <br />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/havindu-nimadith-065414310" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/havinduuu" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" width="40" alt="Facebook" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/havinduuu" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-  </a>&nbsp;&nbsp;
-  <a href="https://discord.com/channels/1311385545380991058/1311386091697209395" target="blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/havindu-nimadith-065414310" target="blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/havinduuu" target="blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" width="40" alt="Facebook" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/havinduuu" target="blank">
+        <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/channels/1311385545380991058/1311386091697209395" target="blank">
+        <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
