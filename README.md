@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Havindu%20Nimadith&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=auto" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Havindu%20Nimadith&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=auto" alt="header"/>
   
 
 
@@ -15,29 +15,25 @@
 <div align="center">
   I am an Innovative IT Enthusiast dedicated to building solutions and shaping the future of technology. I thrive on challenges and enjoy solving complex problems.
   <br><br>
-  🌱 Currently learning MERN Stack
+   Reach me at <a href="mailto:havindunimadith7@gmail.com">havindunimadith7@gmail.com</a>
   <br>
-  💬 Ask me about Java & Spring Boot
-  <br>
-  📫 Reach me at havindunimadith7@gmail.com
-  <br>
-  ⚡ Fun fact: I like problems!
+   Fun fact: I like problems!
 </div>
 
 <br />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/havindu-nimadith-065414310" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/havinduuu" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" width="40" alt="Facebook" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/havinduuu" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>&nbsp;&nbsp;
   <a href="https://discord.com/channels/1311385545380991058/1311386091697209395" target="blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
   </a>
 </p>
 
@@ -144,11 +140,23 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimadith-lmh&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nimadith-lmh&show_icons=true&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nimadith-lmh&show_icons=true&theme=default&hide_border=true">
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=nimadith-lmh&show_icons=true&theme=dark&hide_border=true">
+  </picture>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimadith-lmh&theme=dark&hide_border=true&layout=compact" alt="Top Langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nimadith-lmh&theme=dark&hide_border=true&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nimadith-lmh&theme=default&hide_border=true&layout=compact">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimadith-lmh&theme=dark&hide_border=true&layout=compact">
+  </picture>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimadith-lmh&theme=dark&hide_border=true" alt="Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nimadith-lmh&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nimadith-lmh&theme=default&hide_border=true">
+    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nimadith-lmh&theme=dark&hide_border=true">
+  </picture>
 </div>
 
 ---
@@ -164,7 +172,11 @@
 ### Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NIMADITH-LMH&theme=dracula&no-bg=true&no-frame=true&column=7" alt="Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=NIMADITH-LMH&theme=dracula&no-bg=true&no-frame=true&column=7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=NIMADITH-LMH&theme=flat&no-bg=true&no-frame=true&column=7">
+    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=NIMADITH-LMH&theme=dracula&no-bg=true&no-frame=true&column=7">
+  </picture>
 </p>
 
 
@@ -181,7 +193,5 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&fontColor=auto" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&animation=fadeIn&fontColor=auto" alt="footer" />
 </div>
-
-
