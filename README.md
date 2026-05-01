@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 <div align="center">
   I am an **Innovative IT Enthusiast** dedicated to building solutions and shaping the future of technology. I thrive on challenges and enjoy solving complex problems.
@@ -45,7 +45,7 @@
 
 
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 
 <table align="center">
   <tr>
@@ -124,6 +124,14 @@
       <br>SQLite
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
       <br>Git
     </td>
@@ -133,49 +141,36 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nimadith-lmh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimadith-lmh&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimadith-lmh&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ffae33&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nimadith-lmh&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimadith-lmh&theme=dark&hide_border=true&layout=compact" alt="Top Langs" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimadith-lmh&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimadith-lmh/nimadith-lmh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nimadith-lmh/nimadith-lmh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nimadith-lmh/nimadith-lmh/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/NIMADITH-LMH/NIMADITH-LMH/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-### 🏆 Trophies
+### Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nimadith-lmh&theme=dracula&no-bg=true&no-frame=true&column=7" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=NIMADITH-LMH&theme=dracula&no-bg=true&no-frame=true&column=7" alt="Trophies" />
 </p>
 
 
 ---
 
-### ☕ Support Me
+### Support Me
 
 <div align="center">
   <a href="https://buymeacoffee.com/nimadith_lmh">
