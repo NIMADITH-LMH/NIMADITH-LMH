@@ -19,7 +19,7 @@
   <br>
    Fun fact: I like problems! 
 <br>
-  I lied i hate problems and QAs
+  I lied i hate problems and QAs are my enemies 
 </br>
 </div>
 
