@@ -18,7 +18,9 @@
    Reach me at <a href="mailto:havindunimadith7@gmail.com">havindunimadith7@gmail.com</a>
   <br>
    Fun fact: I like problems! 
-I lied i hate problems and QAs
+<br>
+  I lied i hate problems and QAs
+</br>
 </div>
 
 <br />
