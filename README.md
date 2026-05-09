@@ -13,7 +13,7 @@
 ### About Me
 
 <div align="center">
-  Believe it or not I'm just a regular guy with backend development skills.
+  Just a regular guy with backend development skills.
   <br><br>
    Reach me at <a href="mailto:havindunimadith7@gmail.com">havindunimadith7@gmail.com</a>
   <br>
