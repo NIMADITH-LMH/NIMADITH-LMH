@@ -13,13 +13,13 @@
 ### About Me
 
 <div align="center">
-  Believe it or not I'm just a regular guy with backend development skills, thats it.
+  Believe it or not I'm just a regular guy with backend development skills.
   <br><br>
    Reach me at <a href="mailto:havindunimadith7@gmail.com">havindunimadith7@gmail.com</a>
   <br>
    Fun fact: I like problems! 
 <br>
-  I lied i hate problems and QAs are my enemies 
+  I lied, i hate problems and QAs 
 </br>
 </div>
 
