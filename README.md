@@ -13,7 +13,7 @@
 ### About Me
 
 <div align="center">
-  I am an Innovative IT Enthusiast dedicated to building solutions and shaping the future of technology. I thrive on challenges and enjoy solving complex problems.
+  Believe it or not I'm just a regular guy with backend development skills, thats it.
   <br><br>
    Reach me at <a href="mailto:havindunimadith7@gmail.com">havindunimadith7@gmail.com</a>
   <br>
